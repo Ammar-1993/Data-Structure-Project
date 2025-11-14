@@ -1,13 +1,4 @@
 
-# ⚖️ Law Pro – Law Firm Management System
-
-> A Web-Based Solution for Organizing and Managing Legal Practices  
-> **Developed by:** Rahaf Ayed Alharthi, Noura Ayed Al-Qahtani, Mona Saud Al-Shahrani, Rinas Khalofa Al Ameri  
-> **Supervised by:** Dr. Doaa M. Bamasoud  
-> **Faculty of Computing and Information Technology – University of Bisha**
-
----
-
 ## 📘 Overview
 
 **Law Pro** is a web-based legal management system tailored for law firms and independent lawyers. Designed to modernize traditional legal workflows, the platform provides an integrated solution for managing cases, clients, appointments, financial transactions, and administrative roles — all in one centralized dashboard.
