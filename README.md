@@ -218,7 +218,4 @@ This project is part of a graduation thesis and currently licensed for education
 
 ---
 
-## 🌐 Acknowledgements
-We extend our sincere thanks to our supervisor, faculty members, families, and peers who supported this project and inspired our success.
 
----
